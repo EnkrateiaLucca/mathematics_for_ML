@@ -1,76 +1,75 @@
 # Topics to cover
 
 # Linear Algebra
-- [ ] [Determinant as an area](https://www.khanacademy.org/math/precalculus/x9e81a4f98389efdf:matrices/x9e81a4f98389efdf:matrices-as-transformations/v/interpreting-determinants-in-terms-of-area#:~:text=The%20determinant%20of%20a%202X2,would%20be%20under%20the%20transformation.)
-- [ ] [Determinant of a product](./math_ML/determinant_of_a_product.ipynb)
-  - [Youtube video](https://www.youtube.com/watch?v=eF062w5bQ7A)
-- [ ] [Determinants of inverses](https://www.youtube.com/watch?v=kWorj5BBy9k)
-- [ ] [Bases in Linear Algebra](https://www.youtube.com/watch?v=zntNi3-ybfQ)
-- [ ] [Span in Linear Algebra](https://www.youtube.com/watch?v=k7RM-ot2NWY)
-- [ ] [Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw)
-- [ ] [Eigenvalues and eigenvectors](https://www.youtube.com/watch?v=PFDu9oVAE-g)
+
+- <input type="checkbox"> [Determinant as an area](./notebooks/determinants.ipynb)
+-  <input type="checkbox"> [Determinants of inverses](https://www.youtube.com/watch?v=GuFvSwriy1Q)
+-  <input type="checkbox"> [Bases in Linear Algebra](https://www.youtube.com/watch?v=zntNi3-ybfQ)
+-  <input type="checkbox"> [Span in Linear Algebra](https://www.youtube.com/watch?v=k7RM-ot2NWY)
+-  <input type="checkbox"> [Eigenbases](https://www.youtube.com/watch?v=EJG6gBeVdfw)
+-  <input type="checkbox"> [Eigenvalues and eigenvectors](https://www.youtube.com/watch?v=PFDu9oVAE-g)
 
 # Calculus
 
 ## Derivatives
-- [ ] Derivatives and Tangents
-- [ ] Slopes, maxima and minima
-- [ ] Derivatives and their notation
-- [ ] Some common derivatives - Lines
-- [ ] Some common Derivatives - Quadratics
-- [ ] Some common derivatives - Higher degree polynomials
-- [ ] Some common derivatives - Other power functions
-- [ ] The inverse function and its derivative
-- [ ] Derivative of trigonometric functions
-- [ ] Meaning of the Exponential (e)
-- [ ] The derivative of e^x
-- [ ] The derivative of log(x)
-- [ ] Existence of the derivative
-- [ ] Properties of the derivative: Multiplication by scalars
-- [ ] Properties of the derivative: The sum rule
-- [ ] Properties of the derivative: The product rule
-- [ ] Properties of the derivative: The chain rule
-- [ ] Introduction to optimization
-- [ ] Optimization of squared loss - The one powerline problem
-- [ ] Optimization of squared loss - The two powerline problem
-- [ ] Optimization of squared loss - The three powerline problem
-- [ ] Optimization of log-loss - Part 1
-- [ ] Optimization of log-loss - Part 2
+-  <input type="checkbox"> Derivatives and Tangents
+-  <input type="checkbox"> Slopes, maxima and minima
+-  <input type="checkbox"> Derivatives and their notation
+-  <input type="checkbox"> Some common derivatives - Lines
+-  <input type="checkbox"> Some common Derivatives - Quadratics
+-  <input type="checkbox"> Some common derivatives - Higher degree polynomials
+-  <input type="checkbox"> Some common derivatives - Other power functions
+-  <input type="checkbox"> The inverse function and its derivative
+-  <input type="checkbox"> Derivative of trigonometric functions
+-  <input type="checkbox"> Meaning of the Exponential (e)
+-  <input type="checkbox"> The derivative of e^x
+-  <input type="checkbox"> The derivative of log(x)
+-  <input type="checkbox"> Existence of the derivative
+-  <input type="checkbox"> Properties of the derivative: Multiplication by scalars
+-  <input type="checkbox"> Properties of the derivative: The sum rule
+-  <input type="checkbox"> Properties of the derivative: The product rule
+-  <input type="checkbox"> Properties of the derivative: The chain rule
+-  <input type="checkbox"> Introduction to optimization
+-  <input type="checkbox"> Optimization of squared loss - The one powerline problem
+-  <input type="checkbox"> Optimization of squared loss - The two powerline problem
+-  <input type="checkbox"> Optimization of squared loss - The three powerline problem
+-  <input type="checkbox"> Optimization of log-loss - Part 1
+-  <input type="checkbox"> Optimization of log-loss - Part 2
 
 # Gradient Descent
-- [ ] Introduction to Tangent planes
-- [ ] Partial derivatives - Part 1
-- [ ] Partial derivatives - Part 2
-- [ ] Gradients
-- [ ] Gradients and maxima/minima
-- [ ] Optimization with gradients: An example
-- [ ] Optimization using gradients - Analytical method
-- [ ] Optimization using Gradient Descent in one variable - Part 1
-- [ ] Optimization using Gradient Descent in one variable - Part 2
-- [ ] Optimization using Gradient Descent in one variable - Part 3
-- [ ] Optimization using Gradient Descent in two variables - Part 1
-- [ ] Optimization using Gradient Descent in two variables - Part 2
-- [ ] Optimization using Gradient Descent - Least squares
-- [ ] Optimization using Gradient Descent - Least squares with multiple observations
+-  <input type="checkbox"> Introduction to Tangent planes
+-  <input type="checkbox"> Partial derivatives - Part 1
+-  <input type="checkbox"> Partial derivatives - Part 2
+-  <input type="checkbox"> Gradients
+-  <input type="checkbox"> Gradients and maxima/minima
+-  <input type="checkbox"> Optimization with gradients: An example
+-  <input type="checkbox"> Optimization using gradients - Analytical method
+-  <input type="checkbox"> Optimization using Gradient Descent in one variable - Part 1
+-  <input type="checkbox"> Optimization using Gradient Descent in one variable - Part 2
+-  <input type="checkbox"> Optimization using Gradient Descent in one variable - Part 3
+-  <input type="checkbox"> Optimization using Gradient Descent in two variables - Part 1
+-  <input type="checkbox"> Optimization using Gradient Descent in two variables - Part 2
+-  <input type="checkbox"> Optimization using Gradient Descent - Least squares
+-  <input type="checkbox"> Optimization using Gradient Descent - Least squares with multiple observations
 
 # Optimization in Neural Networks and Newton's Method
-- [ ] Optimization in Neural Networks and Newton's Method
-- [ ] Regression with a perceptron
-- [ ] Regression with a perceptron - Loss function
-- [ ] Regression with a perceptron - Gradient Descent
-- [ ] Classification with Perceptron
-- [ ] Classification with Perceptron - The sigmoid function
-- [ ] Classification with Perceptron - Gradient Descent
-- [ ] Classification with Perceptron - Calculating the derivatives
-- [ ] Classification with a Neural Network
-- [ ] Classification with a Neural Network - Minimizing log-loss
-- [ ] Gradient Descent and Backpropagation
-- [ ] Newton's Method
-- [ ] Newton's Method: An example
-- [ ] The second derivative
-- [ ] The Hessian
-- [ ] Hessians and concavity
-- [ ] Newton's Method for two variables
+-  <input type="checkbox"> Optimization in Neural Networks and Newton's Method
+-  <input type="checkbox"> Regression with a perceptron
+-  <input type="checkbox"> Regression with a perceptron - Loss function
+-  <input type="checkbox"> Regression with a perceptron - Gradient Descent
+-  <input type="checkbox"> Classification with Perceptron
+-  <input type="checkbox"> Classification with Perceptron - The sigmoid function
+-  <input type="checkbox"> Classification with Perceptron - Gradient Descent
+-  <input type="checkbox"> Classification with Perceptron - Calculating the derivatives
+-  <input type="checkbox"> Classification with a Neural Network
+-  <input type="checkbox"> Classification with a Neural Network - Minimizing log-loss
+-  <input type="checkbox"> Gradient Descent and Backpropagation
+-  <input type="checkbox"> Newton's Method
+-  <input type="checkbox"> Newton's Method: An example
+-  <input type="checkbox"> The second derivative
+-  <input type="checkbox"> The Hessian
+-  <input type="checkbox"> Hessians and concavity
+-  <input type="checkbox"> Newton's Method for two variables
 
 # Probability and Statistics for ML
 
@@ -78,33 +77,33 @@
 
 Day 1: Probability Basics
 
-- [ ] Introduction to probability theory
-- [ ] Random variables and probability distributions
-- [ ] Discrete and continuous distributions (Uniform, Bernoulli, Binomial, Poisson)
+-  <input type="checkbox"> Introduction to probability theory
+-  <input type="checkbox"> Random variables and probability distributions
+-  <input type="checkbox"> Discrete and continuous distributions (Uniform, Bernoulli, Binomial, Poisson)
 
 Day 2: Probability Distributions (continued)
 
-- [ ] Continuous distributions (Normal, Exponential, Beta)
-- [ ] Joint, conditional, and marginal probabilities
-- [ ] Bayes' theorem and its applications
+-  <input type="checkbox"> Continuous distributions (Normal, Exponential, Beta)
+-  <input type="checkbox"> Joint, conditional, and marginal probabilities
+-  <input type="checkbox"> Bayes' theorem and its applications
 
 Day 3: Descriptive Statistics and Data Visualization
 
-- [ ] Measures of central tendency (mean, median, mode)
-- [ ] Measures of dispersion (range, variance, standard deviation)
-- [ ] Data visualization techniques (histograms, box plots, scatter plots)
+-  <input type="checkbox"> Measures of central tendency (mean, median, mode)
+-  <input type="checkbox"> Measures of dispersion (range, variance, standard deviation)
+-  <input type="checkbox"> Data visualization techniques (histograms, box plots, scatter plots)
 
 Day 4: Inferential Statistics
 
-- [ ] Sampling and sampling distributions
-- [ ] Confidence intervals
-- [ ] Hypothesis testing (t-test, chi-square test, ANOVA)
+-  <input type="checkbox"> Sampling and sampling distributions
+-  <input type="checkbox"> Confidence intervals
+-  <input type="checkbox"> Hypothesis testing (t-test, chi-square test, ANOVA)
 
 Day 5: Regression Analysis
 
-- [ ] Simple linear regression
-- [ ] Multiple linear regression
-- [ ] Logistic regression
+-  <input type="checkbox"> Simple linear regression
+-  <input type="checkbox"> Multiple linear regression
+-  <input type="checkbox"> Logistic regression
 
 Day 6: Statistical Learning and Model Validation
 
